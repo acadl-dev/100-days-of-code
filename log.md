@@ -1,29 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 19, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Proposal**: Create a program that converts temperatures between Celsius, Fahrenheit and Kelvin.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Primeiro dia do desafio, estou bem animado onde chegarei no Python ao final deste desafio. Senti que fui um pouco devagar para resolver este desafio, espero agilizar futuramente. Aprendizazdo: uma ',' no lugar do '.' fez o programa ler a variavel "fahrenheit"  como uma tupla ao invés de float e isso gerou um erro ao tentar subtrair utilizado a variavél.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**ENGLISH:** First day of the challenge, I'm really excited about where I'll get to in Python by the end of this challenge. I felt like I was a little slow to solve this challenge, I hope to speed it up in the future. Learning: a ',' instead of '.' made the program read the variable "fahrenheit" as a tuple instead of a float and this generated an error when trying to subtract using the variable.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Temperature Converter](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%201/day_one.py)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
