@@ -12,7 +12,8 @@ def algoritmo_crivo_de_eratostenes(n):
     resultado_primos = [contador for contador in range(2, n + 1) if lista_de_numeros[contador]]
     return print(resultado_primos)
         
-algoritmo_crivo_de_eratostenes(30)
+numero_maximo = int(input('Digite um número inteiro limite para capturar todos os primos até ele: '))
+algoritmo_crivo_de_eratostenes(numero_maximo)
 
 #sintaxe básica do range: range(start, stop, step); 
 # start é a posição de início da sequência (por padrão é 0); 
