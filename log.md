@@ -24,7 +24,7 @@ Durante o processo, recorri a várias fontes, incluindo consultas a uma IA, para
 
 Throughout the process, I turned to several resources, including consultations with an AI, to clarify doubts and gain valuable insights. These consultations were essential in overcoming critical roadblocks and refining my approach. This experience underscored the importance of perseverance in the face of challenges and leveraging available tools strategically to achieve effective solutions.
 
-**Link to work:** [Prime Number Check](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%201/day_two.py)
+**Link to work:** [Prime Number Check](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%202/day_two.py)
 
 
 
