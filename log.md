@@ -27,6 +27,21 @@ Throughout the process, I turned to several resources, including consultations w
 **Link to work:** [Prime Number Check](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%202/day_two.py)
 
 
+### Day 2: December 21, 2024
+
+**Proposal**: Develop a simple calculator with basic operations (+, -, *, /).
+
+**Thoughts:** Foi um ótimo exercício para praticar conceitos básicos vistos nas aulas de Python na faculdade. Ele me ajudou a reforçar o uso de estruturas de controle, como loops e condicionais, além de trabalhar com entrada e saída de dados de forma interativa. A implementação das operações básicas permitiu explorar cálculos matemáticos simples, enquanto o menu interativo tornou o código mais dinâmico.
+
+Esse exercício também abriu espaço para pensar em boas práticas, como validação de entrada, modularidade e tratamento de erros, o que é essencial para a criação de programas mais robustos e escaláveis. No futuro, posso expandir esse projeto, adicionando novas funcionalidades, como cálculos mais avançados, suporte a memória de operações anteriores ou até mesmo uma interface gráfica para melhorar a experiência do usuário. Inclusive pretendo praticar isto em breve utilizando o Django.
+
+**![alt text](<eua.png>)ENGLISH:** That was an excellent exercise to practice basic concepts covered in Python classes at college. It helped me reinforce the use of control structures, such as loops and conditionals, as well as work with input and output interactively. Implementing the basic operations allowed me to explore simple mathematical calculations, while the interactive menu made the code more dynamic.
+
+This exercise also opened up opportunities to think about best practices, such as input validation, modularity, and error handling, which are essential for creating more robust and scalable programs. In the future, I can expand this project by adding new features, such as more advanced calculations, support for storing previous operations, or even a graphical interface to improve the user experience. I even plan to practice this soon using Django.
+
+**Link to work:** [Simple Calculator]()
+
+
 
 
 
