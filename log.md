@@ -39,7 +39,7 @@ Esse exercício também abriu espaço para pensar em boas práticas, como valida
 
 This exercise also opened up opportunities to think about best practices, such as input validation, modularity, and error handling, which are essential for creating more robust and scalable programs. In the future, I can expand this project by adding new features, such as more advanced calculations, support for storing previous operations, or even a graphical interface to improve the user experience. I even plan to practice this soon using Django.
 
-**Link to work:** [Simple Calculator]()
+**Link to work:** [Simple Calculator](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%203/day_three.py)
 
 
 
