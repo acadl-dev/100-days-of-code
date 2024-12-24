@@ -1,19 +1,29 @@
-# Criar um programa que calcule o fatorial de um número dado.
+# Escrever um gerador de números da sequência de Fibonacci.
 
-def funcao_fatorial(n):
-    fatorial = 1
-    if n < 0:
-        return print("Fatorial não definido para números negativos.")   
+""" def fibonacci_function(n):
+    fibo_list = [0, 1]     
+    k = 0
     
-    for i in range(1, n+1):       
-        fatorial = fatorial * i
+    while (fibo_list[k] <= n):              
+        fibo_list.append(fibo_list[k] + fibo_list[k+1])
+        k += 1        
         
+    fibo_list.pop()
+    fibo_list.pop()    
+    return print(fibo_list)
+
+fibonacci_function(55) """
+
+def fibonacci_function(n):
+    if n < 0:
+        return []
+    fibo_list = [0, 1]
+    
+    while fibo_list[-1] + fibo_list[-2] <= n:
+        fibo_list.append(fibo_list[-1] + fibo_list[-2])
         
-        
-    return print(fatorial)
+    return print(fibo_list)
 
-number = int(input('Entre com um número inteiro'))
-funcao_fatorial(number)
-
-
-#Aprendizado: math.factorial(numero)
+entrada = int(input('Digite um valor para retornar a sequencia de Fibonacci até ele: '))
+fibonacci_function(entrada)
+    

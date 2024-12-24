@@ -1,11 +1,19 @@
-# Escrever uma função que inverta uma string.
+# Criar um programa que calcule o fatorial de um número dado.
 
-def inverter_string(n):    
-    string_invertida = ''.join(reversed(n))    
-    string_invertida2 = n[::-1]
+def funcao_fatorial(n):
+    fatorial = 1
+    if n < 0:
+        return print("Fatorial não definido para números negativos.")   
     
-    return print(f"Com o método reversed: '{string_invertida}', com a técnica de fatiamento: '{string_invertida2}'.")
+    for i in range(1, n+1):       
+        fatorial = fatorial * i
+        
+        
+        
+    return print(fatorial)
 
-n = str(input('Insira uma string ou usa frase:   '))
-    
-inverter_string(n)
+number = int(input('Entre com um número inteiro'))
+funcao_fatorial(number)
+
+
+#Aprendizado: math.factorial(numero)
