@@ -8,7 +8,7 @@
 
 **![alt text](<eua.png>)ENGLISH:** First day of the challenge, I'm really excited about where I'll get to in Python by the end of this challenge. I felt like I was a little slow to solve this challenge, I hope to speed it up in the future. Learning: a ',' instead of '.' made the program read the variable "fahrenheit" as a tuple instead of a float and this generated an error when trying to subtract using the variable.
 
-**Link to work:** [Temperature Converter](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%201/day_one.py)
+**Link to work:** [Temperature Converter](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day0/day_zero.py)
 
 
 
@@ -24,7 +24,7 @@ Durante o processo, recorri a várias fontes, incluindo consultas a uma IA, para
 
 Throughout the process, I turned to several resources, including consultations with an AI, to clarify doubts and gain valuable insights. These consultations were essential in overcoming critical roadblocks and refining my approach. This experience underscored the importance of perseverance in the face of challenges and leveraging available tools strategically to achieve effective solutions.
 
-**Link to work:** [Prime Number Check](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%202/day_two.py)
+**Link to work:** [Prime Number Check](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day1/day_one.py)
 
 
 ### Day 2: December 21, 2024
@@ -39,7 +39,7 @@ Esse exercício também abriu espaço para pensar em boas práticas, como valida
 
 This exercise also opened up opportunities to think about best practices, such as input validation, modularity, and error handling, which are essential for creating more robust and scalable programs. In the future, I can expand this project by adding new features, such as more advanced calculations, support for storing previous operations, or even a graphical interface to improve the user experience. I even plan to practice this soon using Django.
 
-**Link to work:** [Simple Calculator](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%203/day_three.py)
+**Link to work:** [Simple Calculator](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day2/day_two.py)
 
 
 ### Day 3: December 22, 2024
@@ -50,7 +50,7 @@ This exercise also opened up opportunities to think about best practices, such a
 
 **![alt text](<eua.png>)ENGLISH:** Delivered after the deadline but still valid. I learned two ways to reverse a string.
 
-**Link to work:** [Reverse String](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day4/day_four.py)
+**Link to work:** [Reverse String](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day3/day_three.py)
 
 
 ### Day 4: December 23, 2024
@@ -61,7 +61,7 @@ This exercise also opened up opportunities to think about best practices, such a
 
 **![alt text](<eua.png>)ENGLISH:** On the fourth day, I worked on a programming challenge that involved calculating the factorial of an integer. In addition to implementing the logic to find the factorial, I worried about adding validation for negative numbers, since the factorial is not defined for these cases. It was a great exercise to review basic concepts of loops and data validation!
 
-**Link to work:** [Factorial](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day5/day_five.py)
+**Link to work:** [Factorial](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day4/day_four.py)
 
 
 ### Day 5: December 24, 2024 🎅
