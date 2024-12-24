@@ -50,8 +50,18 @@ This exercise also opened up opportunities to think about best practices, such a
 
 **![alt text](<eua.png>)ENGLISH:** Delivered after the deadline but still valid. I learned two ways to reverse a string.
 
-**Link to work:** [Reverse String](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%203/day_three.py)
+**Link to work:** [Reverse String](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day4/day_four.py)
 
+
+### Day 4: December 23, 2024
+
+**Proposal**: Create a program that calculates the factorial of a given number.
+
+**Thoughts:** No quarto dia, trabalhei em um desafio de programação que envolvia calcular o fatorial de um número inteiro. Além de implementar a lógica para encontrar o fatorial, me preocupei em adicionar uma validação para números negativos, já que o fatorial não está definido para esses casos. Foi um ótimo exercício para revisar conceitos básicos de loops e validação de dados!
+
+**![alt text](<eua.png>)ENGLISH:** On the fourth day, I worked on a programming challenge that involved calculating the factorial of an integer. In addition to implementing the logic to find the factorial, I worried about adding validation for negative numbers, since the factorial is not defined for these cases. It was a great exercise to review basic concepts of loops and data validation!
+
+**Link to work:** [Factorial](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day5/day_five.py)
 
 
 
