@@ -72,12 +72,12 @@ This exercise also opened up opportunities to think about best practices, such a
 
 **![alt text](<eua.png>)ENGLISH:** I developed the logic to implement a program that generates the Fibonacci sequence, one of the most iconic in mathematics, widely observed in nature, art, and science. Initially, although functional, the first version of the code did not fully satisfy me due to the need for additional adjustments, such as using two .pop() methods to correct the final result. In a second iteration, I refactored the code, making it more efficient and organized, demonstrating my commitment to quality and solution clarity
 
-**Link to work:** [Fibonacci]()
+**Link to work:** [Fibonacci](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day5/day_five.py)
 
 
 
 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day5/day_five.py)
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 
