@@ -79,5 +79,5 @@ This exercise also opened up opportunities to think about best practices, such a
 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Find the Longest Word in a String](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day5/day_five.py)
 
