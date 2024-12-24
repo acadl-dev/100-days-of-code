@@ -64,6 +64,17 @@ This exercise also opened up opportunities to think about best practices, such a
 **Link to work:** [Factorial](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day5/day_five.py)
 
 
+### Day 5: December 24, 2024 🎅
+
+**Proposal**: Write a Fibonacci sequence number generator.
+
+**Thoughts:** Desenvolvi a lógica para implementar um programa que gera a sequência de Fibonacci, uma das mais icônicas da matemática, amplamente observada na natureza, arte e ciência. Inicialmente, embora funcional, a primeira versão do código não me satisfez, devido à necessidade de ajustes adicionais, como o uso de dois métodos .pop() para corrigir o resultado final. Em uma segunda iteração, refatorei o código, tornando-o mais eficiente e organizado, demonstrando minha preocupação com a qualidade e a clareza da solução.
+
+**![alt text](<eua.png>)ENGLISH:** I developed the logic to implement a program that generates the Fibonacci sequence, one of the most iconic in mathematics, widely observed in nature, art, and science. Initially, although functional, the first version of the code did not fully satisfy me due to the need for additional adjustments, such as using two .pop() methods to correct the final result. In a second iteration, I refactored the code, making it more efficient and organized, demonstrating my commitment to quality and solution clarity
+
+**Link to work:** [Fibonacci]()
+
+
 
 
 
