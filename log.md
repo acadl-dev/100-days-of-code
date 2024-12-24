@@ -42,6 +42,17 @@ This exercise also opened up opportunities to think about best practices, such a
 **Link to work:** [Simple Calculator](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%203/day_three.py)
 
 
+### Day 3: December 22, 2024
+
+**Proposal**: Write a function that reverses a string.
+
+**Thoughts:** Entregue após o prazo mas esta valendo. Aprendi duas maneiras de inverter uma string.
+
+**![alt text](<eua.png>)ENGLISH:** Delivered after the deadline but still valid. I learned two ways to reverse a string.
+
+**Link to work:** [Reverse String](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day%203/day_three.py)
+
+
 
 
 
