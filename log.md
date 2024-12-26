@@ -76,6 +76,18 @@ This exercise also opened up opportunities to think about best practices, such a
 
 
 
+### Day 6: December 25, 2024 🎅
+
+**Proposal**: Count the frequency of each word in a given text.
+
+**Thoughts:** Este é um programa em Python que conta a frequência de palavras em um texto fornecido pelo usuário. Ele trata todas as palavras como minúsculas e remove pontuações, como pontos e vírgulas, antes de realizar a contagem(utilizando o ‘import re’ para remover a pontuação indesejada). O resultado é um dicionário que mapeia cada palavra à sua respectiva frequência no texto. Essa abordagem garante precisão e clareza na análise das palavras presentes na entrada do usuário.
+
+**![alt text](<eua.png>)ENGLISH:** This is a Python program that counts the frequency of words in a text provided by the user. It converts all words to lowercase and removes punctuation, such as periods and commas, before performing the count (using import re to remove unwanted punctuation). The result is a dictionary that maps each word to its respective frequency in the text. This approach ensures precision and clarity in analyzing the words present in the user's input.
+
+**Link to work:** [Counter Words](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day6/day_six.py)
+
+
+
 
 
 **Link(s) to work**
