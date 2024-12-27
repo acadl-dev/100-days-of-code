@@ -16,8 +16,9 @@ def contador_de_palavras(n):
 
 
 frase_entrada = input('Entre com a frase: ')
-resultado = contador_de_palavras(frase_entrada)
 
+resultado = contador_de_palavras(frase_entrada)
+print('')
 print("Frequência de palavras:")
 for palavra, contagem in resultado.items():
     print(f"{palavra}: {contagem}")

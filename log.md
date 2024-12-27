@@ -88,6 +88,19 @@ This exercise also opened up opportunities to think about best practices, such a
 
 
 
+### Day 7: December 26, 2024 
+
+**Proposal**: Check if a word is a palindrome.
+
+**Thoughts:** Usando o conhecimento aplicado no exercício do dia 3 (Escrever uma função para inverter uma string), foi bastante fácil enfrentar esse desafio. Na minha primeira tentativa, usei o método reversed, mas depois tentei criar uma versão mais concisa usando a técnica de fatiamento.
+
+**![alt text](<eua.png>)ENGLISH:** Using the knowledge applied in the exercise from day 3 (Writing a function to reverse a string), it was quite easy to tackle this challenge. On my first attempt, I used the reversed method, but then I tried to create a more concise version using the slicing technique.
+
+**Link to work:** [Palindrome Check](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day7/day_seven.py)
+
+
+
+
 
 
 **Link(s) to work**
