@@ -99,6 +99,18 @@ This exercise also opened up opportunities to think about best practices, such a
 **Link to work:** [Palindrome Check](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day7/day_seven.py)
 
 
+### Day 8: December 27, 2024 
+
+**Proposal**: Create a simple number guessing game.
+
+**Thoughts:** Com base nos conceitos aplicados em desafios anteriores, como a criação de funções e manipulação de estruturas de controle, foi possível desenvolver este jogo de adivinhação de números de forma eficiente. A lógica foi estruturada para oferecer uma experiência interativa ao usuário, com validação de entradas e dicas para orientá-lo durante as tentativas. A implementação inicial utilizou abordagens funcionais e condicionais básicas, e posteriormente foi aprimorada para incluir funcionalidades como feedback mais detalhado e opções de reinício, garantindo uma solução mais robusta e amigável
+
+**![alt text](<eua.png>)ENGLISH:** Building on the concepts applied in previous challenges, such as creating functions and handling control structures, it was possible to efficiently develop this number-guessing game. The logic was structured to provide an interactive experience for the user, with input validation and hints to guide them through their attempts. The initial implementation utilized basic functional and conditional approaches, and was later refined to include features like detailed feedback and restart options, ensuring a more robust and user-friendly solution.
+
+**Link to work:** [Number Quest](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day8/day_eight.py)
+
+
+
 
 
 
