@@ -1,9 +1,6 @@
 # Criar um jogo simples de adivinhar números.
 import random
 
-
-
-
 def numero_aleatorio():
     return random.randint(0, 10)
 

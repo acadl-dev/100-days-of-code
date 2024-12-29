@@ -111,6 +111,18 @@ This exercise also opened up opportunities to think about best practices, such a
 
 
 
+### Day 9: December 28, 2024 
+
+**Proposal**: Implement a function to calculate the GCD and LMC of two numbers.
+
+**Thoughts:** Este código foi minha primeira tentativa de usar o colorama e códigos ANSI para deixar o terminal mais atrativo. Confesso que apanhei um pouco para entender como personalizar as cores, mas gostei do resultado. Foi desafiador implementar o algoritmo de Euclides para o MDC e garantir que o MMC funcionasse corretamente, mas deu aquele gostinho de conquista quando tudo rodou sem erros. Essa experiência me mostrou como pequenos detalhes, como uma interface visual mais amigável, podem fazer diferença e me motivou a continuar explorando formas de melhorar meus projetos no futuro. Lembrete: a dica de customização de cores veio de uma colega da faculdade.
+
+**![alt text](<eua.png>)ENGLISH:** This code was my first attempt at using colorama and ANSI codes to make the terminal more visually appealing. I’ll admit, I struggled a bit to understand how to customize the colors, but I liked the result. Implementing Euclid's algorithm for the GCD and ensuring the LCM calculation worked correctly was challenging, but it gave me that satisfying sense of achievement when everything ran without errors. This experience showed me how small details, like a more user-friendly interface, can make a difference and motivated me to keep exploring ways to improve my projects in the future. Reminder: the color customization tip came from a college friend.
+
+**Link to work:** [Number Wizard](https://github.com/acadl-dev/100-days-of-code/blob/main/codes/Day9/day_nine.py)
+
+
+
 
 
 
